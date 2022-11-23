@@ -1,3 +1,3 @@
 # instagram-clone
 
-you can visit the [demo](insta-clone-elif-iskenderoglu.netlify.app)
+you can visit the [demo](https://insta-clone-elif-iskenderoglu.netlify.app/)
